@@ -99,7 +99,6 @@ Frontend: http://localhost:3000
 Backend: http://localhost:8000
 
 Project Structure
-csharp
 
 DevConnect/
 ├── backend/
